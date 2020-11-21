@@ -1,15 +1,15 @@
 {
-  "name": "fitness-tracker",
+  "name": "mongoose_skeleton",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js",
+    "start": "node seeders/seed.js && node server.js",
     "watch": "nodemon server.js",
     "seed": "node seeders/seed.js"
   },
-  "author": "Carlos Toledo",
+  "author": "Ana Suvac",
   "license": "MIT",
   "dependencies": {
     "express": "^4.16.3",
