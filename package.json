@@ -9,7 +9,7 @@
     "watch": "nodemon server.js",
     "seed": "node seeders/seed.js"
   },
-  "author": "Ana Suvac",
+  "author": "Justin Pricer",
   "license": "MIT",
   "dependencies": {
     "express": "^4.16.3",
