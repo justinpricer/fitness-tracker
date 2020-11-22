@@ -9,7 +9,6 @@ Track your workouts with Fitness Tracker. The app will keep track of every exerc
 
 * [Installation](#installation)
 * [Usage](#usage)
-    * [Screenshots](#screenshots)
 * [Credits](#credits)
 * [License](#license)
 
@@ -24,20 +23,6 @@ Running seeders/seed.js is optional to have a prepopulated database.
 
 * [See Live Site](https://fitness-tracker28.herokuapp.com/)
 
-
-
-### Screenshots
-
-
-
-1. Creating Workouts
-
-![Site](public/assets/live.gif)
-
-
-2. Last Week's Summary
-
-![Site](public/assets/dash.png)
 
 
 
